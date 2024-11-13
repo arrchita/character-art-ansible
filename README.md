@@ -10,8 +10,6 @@ The webpage is hosted on a server and served through Nginx using a push-based me
 - [Installation](#installation)
 - [Deployment](#deployment)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project demonstrates a simple, static HTML page designed to display character art and related content. 
@@ -63,4 +61,4 @@ The main components of the repository include:
 
 ## Usage
 Once deployed, you can access the webpage by entering the public IP of any of the servers in your web browser.
-
+ ![image](https://github.com/user-attachments/assets/f4025877-3fae-490c-8ea1-220c6d04fab5)
